@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ahmed-Eisa</title>
+</head>
+<body>
+  
+    <table cellspacing="25">
+      <tr>
+      <td><img src="C:\Users\MCG\Desktop\web development\New folder\PHOTOS\me as a police solider.png" width="`10"   height="200" alt=""></td>
+      <td>
 
-You can use the [editor on GitHub](https://github.com/ahmedeisaa/KOSOMACC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+       <h2>Ahmed Abdelsalam Mohamed Ibraheem</h2>
+       <p>I am pr Manger  of <strong> Ultimate Solution</strong>  
+      <br></p>
+       
+      </td>
+    </tr> 
+  </table>
+  <hr size="5" color="green">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <h1>work and experiences</h1>
+<center>  <table cellspacing="40  "   >
+  <tr> 
+    <td><h3>dates</h3></td>
+<td><h4>works</h4></td>
+<td><h4>company logo</h4></td>
+</tr>
+<tr><ol>
+  <td> <strong> <li>    2016  <b>:</b></li></td>
+<td> <strong> i worked as an english teacher for sadeks nursery</strong> </td>
+<td><img   height="100" src="C:\Users\MCG\Desktop\web development\New folder\PHOTOS\sadeks nursery.jpg" width="500" alt=""></strong><br><br></td>
+</ol></tr>
 
-### Markdown
+<tr><ul>
+  <td> <li> 2017-2018 <b>:</b></li></td>
+<td>i workded as an eglish key account manager for aldeyaa company  </td>
+<td>  <img src="C:\Users\MCG\Desktop\web development\New folder\PHOTOS\aldeyaa.png"   height="100"  width="500" alt=""> <br> <br> </td>
+</ul></tr>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<tr><ul>
+  <td> <li> 2018-2019 <b>:</b></li></td>
+<td>i workded as an eglish telesales agent   </td>
+<td>  <img src="C:\Users\MCG\Desktop\web development\New folder\PHOTOS\adam company.jpg"   height="100"  width="500" alt=""> <br> </td>
+</ul></tr>
+<tr><ul>
+  <td> <li> 2019 <b>:</b></li></td>
+<td>i workded as a director of puplic relationship   </td>
+<td>  <img src="C:\Users\MCG\Desktop\web development\New folder\PHOTOS\ultimate solution .jpg"   height="100"  width="500" alt=""><br><br></td>
+</ul></tr>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+</table>
+</center>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahmedeisaa/KOSOMACC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
